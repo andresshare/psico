@@ -1,5 +1,7 @@
 # Mockup to Psico
-![N|Solid](https://static.pexels.com/photos/236287/pexels-photo-236287.jpeg)
+
+
+![Texto Alternativo](https://s3.amazonaws.com/newyorkcouplescounseling/static/images/slides/couple-finding-love.jpg)
 
 
 
