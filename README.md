@@ -1,5 +1,5 @@
 # Mockup to Psico
-![N|Solid](https://static.pexels.com/photos/236287/pexels-photo-236287.jpeg
+![N|Solid](https://static.pexels.com/photos/236287/pexels-photo-236287.jpeg)
 
 
 
